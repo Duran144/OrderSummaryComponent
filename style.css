@@ -234,10 +234,15 @@ body{
 
 @media screen and (max-width: 21em) {
     .container{
-        width: 100%;
+        width: 90%;
     }
+
     .para-1{
-        width: 100%;
+        width: 97%;
+    }
+
+    .payment-box{
+        width: 90%;
     }
 }
 
