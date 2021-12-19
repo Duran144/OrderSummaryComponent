@@ -132,105 +132,9 @@ body{
     color: hsl(245, 75%, 52%);
 }
 
-@media screen and (max-width: 74em) {
-    .para-1{
-        width: 100%;
-    }
-
-    .change-link{
-        margin-left: 2rem;
-    }
-}
 
 
-@media screen and (max-width: 64em) {
-    .container{
-        width: 40%;
-    }
 
-    .para-1{
-        width: 100%;
-    }
-
-    .change-link{
-        margin-left: 4rem;
-    }
-}
-
-@media screen and (max-width: 55em) {
-
-
-    .container{
-        width: 40%;
-    }
-
-    .para-1{
-        width: 100%;
-    }
-
-    .change-link{
-        margin-left: 2rem;
-    }
-
-}
-
-@media screen and (max-width: 47.5em) {
-
-    .container{
-        width: 50%;
-    }
-
-    .para-1{
-        width: 100%;
-    }
-
-    
-}
-
-@media screen and (max-width: 40em) {
-    .container{
-        width: 60%;
-    }
-    
-    .para-1{
-        width: 100%;
-    }
-}
-
-@media screen and (max-width: 34em) {
-    .container{
-        width: 70%;
-    }
-
-    .para-1{
-        width: 100%;
-    }
-}
-
-@media screen and (max-width: 28em) {
-    body{
-        background-image: url(images/pattern-background-mobile.svg);
-        background-repeat: no-repeat;
-    }
-
-    .container{
-        width: 80%;
-    }
-
-    .para-1{
-        width: 100%;
-    }
-}
-
-@media screen and (max-width: 24em) {
-    .container{
-        width: 90%;
-    }
-
-    .para-1{
-        width: 100%;
-    }
-}
 
 @media screen and (max-width: 21em) {
     .container{
@@ -243,6 +147,14 @@ body{
 
     .payment-box{
         width: 90%;
+    }
+
+    .para-2{
+        margin-left: 1.5rem;
+    }
+
+    .change-link{
+        margin-left: 2.2rem;
     }
 }
 
