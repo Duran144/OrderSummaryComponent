@@ -33,13 +33,13 @@ Users should be able to:
 ![](./images/screenshot2.png)
 
 - Link Hover State
-![](./images/screenshot5.png)
+![](./images/Screenshot5.png)
 
 - Payment Buttton Hover State
-![](./images/screenshot3.png)
+![](./images/Screenshot3.png)
 
 - Cancel Button Hover State
-![](./images/screenshot4.png)
+![](./images/Screenshot4.png)
 
 ### Links
 
